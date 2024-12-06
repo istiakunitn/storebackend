@@ -1,5 +1,4 @@
-// module github.com/istiakunitn/storebackend
-module storebackend
+module github.com/istiakunitn/storebackend
 
 go 1.23.4
 
